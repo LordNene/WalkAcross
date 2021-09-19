@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Canvas
+  - Board
+  - White
+  - CardClassicBlue
+  - CardClassicRed
+  - CardDiagonal
+  - CardSuper
+  - TurnText
+  - DrawPileButton
+  - DiscardPileButton
+  - DiscardCardButton
+  - EndTurnButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - OverwritingText
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: OverwritingText
+    uniqueID: 2377584573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SpritesUnderText
+    uniqueID: 3219594183
+    locked: 0
